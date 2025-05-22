@@ -1,4 +1,4 @@
-# IF669-Robotica
+# Votação Eletrônica com o Braço Robótico Niryo One
 Projeto extra da cadeira de Introdução à Programação do CIn-UFPE utilizando o simulador de robôs [CoppeliaSim](https://www.coppeliarobotics.com/).
 
 # Objetivo
